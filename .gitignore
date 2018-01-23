@@ -1,0 +1,8 @@
+#
+# Directories that we don't want git to track in this repository
+#
+
+bin
+target
+.ispace
+.settings
